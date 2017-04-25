@@ -1,0 +1,20 @@
+.dropdown {
+    padding: 3px;
+    background-color: #e6e6e6;
+    margin-left: 4px;
+}
+.button1 {
+    margin-left: 46px;
+}
+.button2 {
+    margin-left: 4px;
+}
+.table {
+    width: 100%;
+}
+button1:hover {
+    background-color: yellow;
+}
+a:hover {
+    color: blue;
+}
