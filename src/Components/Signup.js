@@ -108,7 +108,7 @@ export default class Signup extends Component {
                     onClick={this._handleFormSubmit.bind(this)}
                     bsSize='large'
                     bsStyle='primary'
-                    value='submit'
+                    value='Save'
                 />
             </div>
 
